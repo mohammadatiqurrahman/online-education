@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Creating Online Education Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [liveSiteLink](https://gallant-thompson-c54b55.netlify.app/).
 
 ## Available Scripts
 
