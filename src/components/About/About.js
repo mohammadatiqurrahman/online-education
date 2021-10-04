@@ -12,7 +12,7 @@ const About = () => {
     },[])
     return (
         <div>
-            <h1 className="mt-4">Meet Our Team</h1>
+            <h1 className="mt-4 text-danger">Meet Our Team</h1>
             <h1>---...---</h1>
         <div className="container">
          <div className="row row-cols-1 row-cols-md-3 g-4">
