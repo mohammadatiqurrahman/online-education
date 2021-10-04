@@ -1,0 +1,26 @@
+.custom-cls{
+    /* height: 500px; */
+    background-color: rgb(57, 73, 109);
+    padding: 50px;
+}
+.custom-img{
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.instructor{
+    width: 50px;
+    border-radius: 5px;
+}
+.course-enrol{
+    background-color: white;
+    margin-top: 25px;
+    width: 32%;
+    height: 75px;
+    color: black;
+    border-radius: 3px;
+    padding: 8px 0px 12px 12px;
+    transition: .6s;
+}
+.course-enrol:hover{
+    background-color: rgb(173, 180, 187);
+}
