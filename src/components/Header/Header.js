@@ -4,7 +4,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-        <div className="container">
+        <div>
         <div className="row custom-cls">
             <div className="col-md-6 text-start text-white">
                 <div>

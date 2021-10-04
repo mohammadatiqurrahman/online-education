@@ -1,0 +1,11 @@
+.nav-style{
+    background-color: rgb(45, 68, 99);
+    line-height: 70px;
+    text-align: left;
+}
+.style-nav{
+    text-decoration: none;
+    margin: 25px;
+    color: white;
+
+}
