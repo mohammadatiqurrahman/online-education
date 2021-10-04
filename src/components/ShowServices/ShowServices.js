@@ -4,7 +4,7 @@ const ShowServices = (props) => {
     const {category,img,description,price} = props.service;
     return (
         <div>
-        <div class="col height">
+        <div class="col mt-4">
         <div class="card h-100 text-start">
             <img src={img} class="card-img-top img-height" alt="..."/>
             <div class="card-body text-success">

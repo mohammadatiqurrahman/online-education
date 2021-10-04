@@ -118,3 +118,25 @@ const services = [
 
 
 console.log(services);
+
+
+// users data
+
+const users = [
+    {
+        name: 'Dr. Shamrose Sheldin',
+        title: 'Machine Learning Specialist',
+        img: 'https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Import/2018-10/I/Image1_RPMP_0.jpg?h=900&w=900&hash=55F1F72868E6B01C30FE6045F420481D'
+    },
+    {
+        name: 'Dr. Shane Symonds',
+        title: 'NLP Specialist',
+        img: 'https://www.uwo.ca/bmi/investigators/images-researchers/teneille-gofton.jpg'
+    },
+    {
+        name: 'Dr. Shelin Wisey',
+        title: 'Machine Learning Specialist',
+        img: 'http://www.ait.ac.at/fileadmin/profile/bilder/Photo_123.JPG'
+    }
+];
+console.log(users);

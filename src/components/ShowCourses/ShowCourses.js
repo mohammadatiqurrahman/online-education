@@ -3,7 +3,7 @@ import './ShowCourses.css'
 
 const ShowCourses = (props) => {
     // console.log(props.course);
-    const {category,img,description,price,rating} = props.course;
+    const {category,img,description,price} = props.course;
     return (
         <div>
         <div className="col">
@@ -13,7 +13,6 @@ const ShowCourses = (props) => {
                 <h5 className="card-title">{category}</h5>
                 <p className="card-text">{description.slice(0,150)}</p>
                 <p>Price: $ {price}</p>
-                <p>{rating}</p>
             </div>
             <div className="card-footer text-center text-white bg-dark">
                 <small>Enroll Now</small>
