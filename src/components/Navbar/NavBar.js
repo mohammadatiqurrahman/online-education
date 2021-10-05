@@ -15,7 +15,7 @@ const NavBar = () => {
             <img className="logo" src={logo} alt="" />
                 <NavLink className="style-nav" activeStyle={activeStyle} to="/home">Home</NavLink>
                 <NavLink className="style-nav" activeStyle={activeStyle} to="/about_us">About Us</NavLink>
-                <NavLink className="style-nav" activeStyle={activeStyle} to="/services">Services</NavLink>
+                <NavLink className="style-nav" activeStyle={activeStyle} to="/services">Courses</NavLink>
                 <NavLink className="style-nav" activeStyle={activeStyle} to="/instructors">Instructors</NavLink>
 
             </nav>
