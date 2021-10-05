@@ -11,9 +11,9 @@ const ShowInstructor = (props) => {
     return (
         <div>
         <div className="col">
-            <div className="d-flex">
+        <div className="d-flex">
              <div>
-                <img src={img} className="card-img-top w-75 rounded-circle" alt="..."/>
+                <img src={img} className="card-img-top w-50 rounded-circle" alt="..."/>
             </div>
             <div>
             <div className="card-body text-start">
@@ -21,10 +21,9 @@ const ShowInstructor = (props) => {
                 <p>{title}</p>
                 <p><small>{user}<b>  {learner}</b> Learners</small></p>
                 <p><small>{book}<b>  {courses}</b> Courses</small></p>
-
             </div>
             </div>
-            </div>
+        </div>
         </div>
         </div>
     );

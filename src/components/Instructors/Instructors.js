@@ -14,7 +14,7 @@ const Instructors = () => {
         <div>
             <div className="container">
             <h4 className="text-start mt-4 mb-4">Instructors</h4>
-                <div className="row row-clos-1 row-cols-md-2">
+                <div className="row row-cols-1 row-cols-md-2">
                     {
                         instructors.map(instructor=><ShowInstructor instructor={instructor}></ShowInstructor>)
                     }
