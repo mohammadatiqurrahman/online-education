@@ -7,7 +7,7 @@ const ShowServices = (props) => {
         <div class="col mt-4">
         <div class="card h-100 text-start">
             <img src={img} class="card-img-top img-height" alt="..."/>
-            <div class="card-body text-success">
+            <div class="card-body">
                 <h5 class="card-title">{category}</h5>
                 <p class="card-text">{description.slice(0,150)}</p>
                 <h6 class="card-text">$ {price}</h6>
