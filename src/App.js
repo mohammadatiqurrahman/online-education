@@ -4,6 +4,7 @@ import About from './components/About/About';
 import Courses from './components/Courses/Courses';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+import Instructors from './components/Instructors/Instructors';
 import NavBar from './components/Navbar/NavBar';
 import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
@@ -30,6 +31,10 @@ function App() {
           </Route>
           <Route path="/about_us">
             <About></About>
+            <Footer></Footer>
+          </Route>
+          <Route path="/instructors">
+            <Instructors></Instructors>
             <Footer></Footer>
           </Route>
           <Route path="*">

@@ -11,12 +11,12 @@ const Header = () => {
                 <h1>IBM Data Science Professional Certificate</h1>
                 <p>Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required.</p>
                 </div>
-                <div className="d-flex text-center">
+                <div className="d-flex text">
                     <div>
                     <img className="instructor" src="https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Import/2018-07/I/Image1_RPDS_2.jpg?h=900&w=900&hash=4BD83FDEC7B4F4A9909C92201A9A0840" alt="" />
                     </div>
                     <div className="ms-4">
-                        <h6 className="text-center">Rav Ajhua</h6>
+                        <h6>Rav Ajhua</h6>
                         <p><small>Course Instructor</small></p>                
                 </div>
                 </div>

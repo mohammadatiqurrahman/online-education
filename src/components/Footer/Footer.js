@@ -33,7 +33,7 @@ const Footer = () => {
                 <h6 className="style-text">SALES INQUIRIES</h6>
                 <p>Connect with an Apex Learning expert to explore ways we could collaborate to support the needs of your students.</p>
                 </div>
-                <p className='p-4 text-white bg-dark'>Copyright© 2021 Apex Learning Inc. Apex Learning®, the Apex Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage®  and where opportunity thrives™ are either registered trademarks or trademarks of Apex Learning Inc. Advanced Placement®, AP®, SAT®, and ACCUPLACER® are registered trademarks and/or owned by the College Board, which was not involved in the production of, and does not endorse this product. TASC Test Assessing Secondary Completion™ is a trademark of Data Recognition Corporation|CTB.  HiSET® is a trademark of ETS®. Suite360™ is a trademark of Evolution Labs.</p>
+                <p className='p-4 text-white bg-dark'>Copyright© 2021 Online Learning Inc. Online Learning®, the Online Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage®  and where opportunity thrives™ are either registered trademarks or trademarks of Online Learning Inc.</p>
             </div>
 
         </div>
